@@ -1,0 +1,30 @@
+*,
+html {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  padding: 50px 0;
+}
+
+#app {
+    background-color: red;
+    width: 580px;
+    height: 550px;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.title {
+  color: green;
+}
+
+.user-name {
+  color: blue;
+}
+.nav-list {
+  background-color: yellow;
+}
